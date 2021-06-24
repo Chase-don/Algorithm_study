@@ -1,0 +1,9 @@
+# Project exclude paths
+/AVLTree/target/
+/BST/target/
+/Examination/target/
+/Heap_and_PriorityQueue/target/
+/Leetcode/target/
+/SegmentTree/target/
+/Sort/target/
+/UnionFind/target/

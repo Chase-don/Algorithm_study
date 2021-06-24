@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="BST" />
+        <module name="Set" />
+        <module name="Heap_and_PriorityQueue" />
+        <module name="UnionFind" />
+        <module name="Sort" />
+        <module name="AVLTree" />
+        <module name="SegmentTree" />
+        <module name="Leetcode" />
+        <module name="Hash" />
+        <module name="dp" />
+        <module name="Map" />
+        <module name="Examination" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Ailibaba" target="1.5" />
+      <module name="Baidu" target="8" />
+      <module name="huawei" target="1.5" />
+      <module name="JD" target="1.5" />
+      <module name="XieCheng" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
